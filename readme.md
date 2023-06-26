@@ -1,4 +1,4 @@
-<p>Clarusway<img align="right"
+<p>Bekir - RoninDEV<img align="right"
   src="https://avatars.githubusercontent.com/u/53233822?v=4"  width="15px"></p>
 
 # Project-004 : Find the Number Game (JS-04)
