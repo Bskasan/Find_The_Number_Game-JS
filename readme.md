@@ -32,7 +32,7 @@ Project aims to create find the number game (between 0 to 100).
 
 ## Outcome
 
-- Add your photo of project here.
+![FindTheNumber](https://github.com/Bskasan/Find_The_Number_Game-JS/assets/53233822/91283986-930d-444b-8af7-ba15dfc4f33e)
 
 ## Objective
 
