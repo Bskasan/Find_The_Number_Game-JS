@@ -8,21 +8,31 @@ body {
 }
 
 #container {
-  border: 2px solid black;
+  border: 2px solid #41506B;
   padding: 3rem;
   border-radius: 10px;
+  text-align: center;
 }
 
-#output-text{
+.header {
+  font-size: 3rem;
+  
+}
 
+#output-text {
+  text-align: center;
+  font-weight: 200;
+  font-size: 1.3rem;
 }
 
 input.user-input {
 }
 
-img{
-    height: 200px;
-    width: auto;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 #enter-btn {
@@ -63,5 +73,3 @@ img{
   border: none;
   margin: 0.4em;
 }
-
-
