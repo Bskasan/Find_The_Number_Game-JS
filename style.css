@@ -1,7 +1,6 @@
 body {
   background-color: #90f6d7;
   height: 100vh;
-  display: grid;
   grid-template-columns: auto auto;
   gap: 20px;
   place-content: center;
@@ -84,7 +83,9 @@ img {
   padding: 1rem;
 }
 
-
+.my-info{
+    padding-top: 100px;
+}
 
 .my-img{
     width: 30px;
@@ -92,9 +93,7 @@ img {
     border-radius: 50%;
 }
 
-my-info{
-    display: grid;
-}
+
 
 
 
