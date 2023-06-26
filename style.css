@@ -12,6 +12,7 @@ body {
   padding: 3rem;
   border-radius: 10px;
   text-align: center;
+  margin: auto
 }
 
 .header {
@@ -26,7 +27,16 @@ body {
 }
 
 input.user-input {
+    padding: 0.5rem;
+    border: 2px solid #41506b;
+    border-radius: 10px;
 }
+
+input.user-input:hover{
+    border: 2px solid aqua;
+    transition: border 1s;
+}
+
 
 img {
   display: block;
@@ -36,8 +46,8 @@ img {
 }
 
 #enter-btn {
-  --b: 3px; /* border thickness */
-  --s: 0.15em; /* size of the corner */
+  --b: 2px; /* border thickness */
+  --s: 0.4em; /* size of the corner */
   --c: #41506b;
 
   padding: calc(0.05em + var(--s)) calc(0.3em + var(--s));
