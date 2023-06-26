@@ -8,16 +8,16 @@ body {
 }
 
 #container {
-  border: 2px solid #41506B;
+  font-family: "Press Start 2P", cursive;
+  border: 2px solid #41506b;
   padding: 3rem;
   border-radius: 10px;
   text-align: center;
-  margin: auto
+  margin: auto;
 }
 
 .header {
-  font-size: 3rem;
-  
+  font-size: 2rem;
 }
 
 #output-text {
@@ -27,16 +27,15 @@ body {
 }
 
 input.user-input {
-    padding: 0.5rem;
-    border: 2px solid #41506b;
-    border-radius: 10px;
+  padding: 0.5rem;
+  border: 2px solid #41506b;
+  border-radius: 10px;
 }
 
-input.user-input:hover{
-    border: 2px solid aqua;
-    transition: border 1s;
+input.user-input:hover {
+  border: 2px solid aqua;
+  transition: border 1s;
 }
-
 
 img {
   display: block;
@@ -76,10 +75,27 @@ img {
 }
 
 #enter-btn {
-  font-family: system-ui, sans-serif;
+  font-family: 'Press Start 2P', cursive;;
   font-weight: bold;
   font-size: 1rem;
   cursor: pointer;
   border: none;
   margin: 0.4em;
+  padding: 1rem;
 }
+
+
+
+.my-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+my-info{
+    display: grid;
+}
+
+
+
+
