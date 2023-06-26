@@ -4,7 +4,7 @@ body {
   grid-template-columns: auto auto;
   gap: 20px;
   place-content: center;
-  padding: 50vh;
+  padding: 3rem;
 }
 
 
@@ -19,7 +19,7 @@ body {
 }
 
 .header {
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 
 #output-text {
@@ -91,8 +91,8 @@ img {
 }
 
 .my-img{
-    width: 30px;
-    height: 30px;
+    height: 40px;
+    width: 40px;
     border-radius: 50%;
     float: left;
 }
