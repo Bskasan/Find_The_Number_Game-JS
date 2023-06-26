@@ -30,7 +30,7 @@ Project aims to create find the number game (between 0 to 100).
         |----index.js
 ```
 
-## Expected Outcome
+## Outcome
 
 - Add your photo of project here.
 
@@ -52,33 +52,4 @@ Build a Find the Number Game (Between 0 to 100)
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
 
-- Step 1: Download or clone project repo on Github
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create JS code for Find the Number Game
-
-> > Part-1 HTML Structure
-
-    - Creat structure of the HTML5
-    - Give name of your project (title)
-    - Create the main structure of the HTML
-
-> > Part-2 CSS Structure
-
-    - Set a background image or define background-color
-    - Set container background color and margin
-    - Define others color-size-padding etc...
-
-> Part-3 JS Structure
-
-    - Create code for find the number between 0 to 100
-    -
-
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Deploy your application on Github template to showcase your app within your team.
-
-<center> ⌛ Happy Coding  ✍ </center>
