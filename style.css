@@ -4,7 +4,10 @@ body {
   grid-template-columns: auto auto;
   gap: 20px;
   place-content: center;
+  padding: 50vh;
 }
+
+
 
 #container {
   font-family: "Press Start 2P", cursive;
@@ -91,6 +94,12 @@ img {
     width: 30px;
     height: 30px;
     border-radius: 50%;
+    float: left;
+}
+
+a{
+  text-decoration: none;
+  float: right;
 }
 
 
